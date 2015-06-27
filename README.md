@@ -5,3 +5,6 @@
 <script src="//fcarstens.github.io/qunit-sound/qunit-sound.min.js"></script>
 ```
 
+### Demo: [JS Bin](http://jsbin.com/cipoqevoqe/1/edit?html,js,output)
+
+
